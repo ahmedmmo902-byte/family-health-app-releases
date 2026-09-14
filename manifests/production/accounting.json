@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "status": "published",
+  "app": "accounting",
+  "channel": "production",
+  "packageName": "com.example.accounting",
+  "versionCode": 9,
+  "versionName": "1.0.8",
+  "apkUrl": "https://github.com/ahmedmmo902-byte/family-health-app-releases/releases/download/accounting-v1.0.8/accounting-1.0.8.apk",
+  "sha256": "00915040647905c68453679b6a170f118deb8fed41dea14b24aa5e5a5687b760",
+  "required": false,
+  "notes": "تحديثات آمنة داخل التطبيق"
+}
