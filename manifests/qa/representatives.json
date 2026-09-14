@@ -7,7 +7,7 @@
   "versionCode": 901,
   "versionName": "9.0.1-qa",
   "apkUrl": "https://github.com/ahmedmmo902-byte/family-health-app-releases/releases/download/representatives-qa-v9.0.1/representatives-qa-9.0.1.apk",
-  "sha256": "70ae13814088d9baf0d9c989082ec2689bd2ebc9e9861b76d22d495d21699645",
+  "sha256": "8cb459071e493ff516fd850c548a0cc0140c93a7d616912c88c3015a72c73f03",
   "required": false,
   "notes": "اختبار دورة التحديث المعزولة"
 }
