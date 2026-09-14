@@ -1,13 +1,13 @@
 {
   "schema": 1,
-  "status": "draft",
+  "status": "published",
   "app": "representatives",
   "channel": "qa",
   "packageName": "com.familyhealth.representatives.qa",
-  "versionCode": 901,
-  "versionName": "9.0.1-qa",
-  "apkUrl": "https://github.com/ahmedmmo902-byte/family-health-app-releases/releases/download/representatives-qa-v9.0.1/representatives-qa-9.0.1.apk",
-  "sha256": "8cb459071e493ff516fd850c548a0cc0140c93a7d616912c88c3015a72c73f03",
+  "versionCode": 903,
+  "versionName": "9.0.3-qa",
+  "apkUrl": "https://github.com/ahmedmmo902-byte/family-health-app-releases/releases/download/representatives-qa-v9.0.3/representatives-qa-9.0.3.apk",
+  "sha256": "cb4da8007caa9ace6d4a950b6afe2b31f72b046cfd09db989882ef314d6545c7",
   "required": false,
-  "notes": "اختبار دورة التحديث المعزولة"
+  "notes": "اختبار إصلاح جلب وتثبيت التحديث"
 }
