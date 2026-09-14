@@ -1,13 +1,13 @@
 {
   "schema": 1,
-  "status": "draft",
+  "status": "published",
   "app": "warehouse",
   "channel": "production",
   "packageName": "com.example.flutter_application_4",
-  "versionCode": 14,
-  "versionName": "1.0.13",
-  "apkUrl": "https://github.com/ahmedmmo902-byte/family-health-app-releases/releases/download/warehouse-v1.0.13/warehouse-1.0.13.apk",
-  "sha256": "bb886d5a4c496eeed95e9cd5252ac84c544f17d31ab3494f7fe20a23d4a3df0d",
+  "versionCode": 15,
+  "versionName": "1.0.14",
+  "apkUrl": "https://github.com/ahmedmmo902-byte/family-health-app-releases/releases/download/warehouse-v1.0.14/warehouse-1.0.14.apk",
+  "sha256": "9315c76aa1857dd0153fc133850951a637fd94c3dbceb0826b1936a6a85ad54e",
   "required": false,
   "notes": "تحديثات آمنة داخل التطبيق"
 }

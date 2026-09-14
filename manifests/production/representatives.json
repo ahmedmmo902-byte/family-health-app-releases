@@ -1,13 +1,13 @@
 {
   "schema": 1,
-  "status": "draft",
+  "status": "published",
   "app": "representatives",
   "channel": "production",
   "packageName": "com.familyhealth.representatives",
-  "versionCode": 3,
-  "versionName": "1.0.2",
-  "apkUrl": "https://github.com/ahmedmmo902-byte/family-health-app-releases/releases/download/representatives-v1.0.2/representatives-1.0.2.apk",
-  "sha256": "76f73995dd425d3218777461a5de44d2f7249c435c9a0ba41c912956bd5c220d",
+  "versionCode": 4,
+  "versionName": "1.0.3",
+  "apkUrl": "https://github.com/ahmedmmo902-byte/family-health-app-releases/releases/download/representatives-v1.0.3/representatives-1.0.3.apk",
+  "sha256": "624e01053c97f9359ef7e0ae72dd1e90d94e3d2aafe214fb7f509f3a725e06d3",
   "required": false,
-  "notes": "إغلاق الربط الحي ونظام التحديثات"
+  "notes": "إغلاق الربط الحي وتحديثات آمنة"
 }
