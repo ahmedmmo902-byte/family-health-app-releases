@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "status": "published",
+  "status": "draft",
   "app": "accounting",
   "channel": "production",
   "packageName": "com.example.accounting",

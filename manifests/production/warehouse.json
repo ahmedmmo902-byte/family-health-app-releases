@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "status": "published",
+  "status": "draft",
   "app": "warehouse",
   "channel": "production",
   "packageName": "com.example.flutter_application_4",

@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "status": "published",
+  "status": "draft",
   "app": "representatives",
   "channel": "production",
   "packageName": "com.familyhealth.representatives",
