@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "status": "published",
+  "status": "paused",
   "app": "representatives",
   "channel": "qa",
   "packageName": "com.familyhealth.representatives.qa",
