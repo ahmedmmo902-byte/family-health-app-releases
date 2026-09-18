@@ -4,10 +4,10 @@
   "app": "accounting",
   "channel": "production",
   "packageName": "com.example.accounting",
-  "versionCode": 10,
-  "versionName": "1.0.9",
-  "apkUrl": "https://github.com/ahmedmmo902-byte/family-health-app-releases/releases/download/accounting-v1.0.9/accounting-1.0.9.apk",
-  "sha256": "a282683189a22f6708481daf0fa13ab99edf3d6784b054d1be169e3362e0185f",
+  "versionCode": 14,
+  "versionName": "1.0.13",
+  "apkUrl": "https://github.com/ahmedmmo902-byte/family-health-app-releases/releases/download/accounting-v1.0.13/accounting-1.0.13.apk",
+  "sha256": "46f3eb7cdf6513e575d8bd1686cce8b330cb3f0cd0a123102c0ff281af46b203",
   "required": false,
-  "notes": "تحديثات آمنة داخل التطبيق"
+  "notes": "مراجعة مقترحات فواتير المندوب وتصحيحات المزامنة"
 }
