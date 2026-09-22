@@ -4,10 +4,12 @@
   "app": "representatives",
   "channel": "production",
   "packageName": "com.familyhealth.representatives",
-  "versionCode": 4,
-  "versionName": "1.0.3",
-  "apkUrl": "https://github.com/ahmedmmo902-byte/family-health-app-releases/releases/download/representatives-v1.0.3/representatives-1.0.3.apk",
-  "sha256": "624e01053c97f9359ef7e0ae72dd1e90d94e3d2aafe214fb7f509f3a725e06d3",
+  "versionCode": 5,
+  "versionName": "1.0.4",
+  "apkUrl": "https://github.com/ahmedmmo902-byte/family-health-app-releases/releases/download/representatives-v1.0.4/representatives-1.0.4.apk",
+  "sha256": "9424b13b5bf626e00f8b2fe2779ee9f9c9e0d6718d3695d299828a42dc25049c",
+  "sizeBytes": 62492728,
   "required": false,
-  "notes": "إغلاق الربط الحي وتحديثات آمنة"
+  "notes": "مركز المزامنة: زر «فحص وإصلاح الآن» واحد بحالة صادقة وعدادات الطابور وتقرير دعم بلا بيانات حساسة، والتعارضات والعمليات المحجوبة تُقرَّر من شاشة المراجعة بدل التجاهل الصامت أو إعادة الإرسال العمياء",
+  "artifacts": []
 }
