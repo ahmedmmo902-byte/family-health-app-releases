@@ -4,10 +4,12 @@
   "app": "accounting",
   "channel": "production",
   "packageName": "com.example.accounting",
-  "versionCode": 28,
-  "versionName": "1.0.27",
-  "apkUrl": "https://github.com/ahmedmmo902-byte/family-health-app-releases/releases/download/accounting-v1.0.27/accounting-1.0.27.apk",
-  "sha256": "a8985b4096796a8f3784c5c6ee8ff0914eff59ab6afdf552a4dc6e40fe75412e",
+  "versionCode": 29,
+  "versionName": "1.0.28",
+  "apkUrl": "https://github.com/ahmedmmo902-byte/family-health-app-releases/releases/download/accounting-v1.0.28/accounting-1.0.28.apk",
+  "sha256": "b914200c0f9991ba6359582d41d5bfeb7d715a6e971a56f722e7a295546540d0",
+  "sizeBytes": 73552032,
   "required": false,
-  "notes": "مزامنة لحظية بين أجهزة المحاسبة وتسوية آمنة للعمليات المرجعية العالقة"
+  "notes": "زر «فحص وإصلاح الآن» واحد لمزامنة بيانات الشركة مع حالة صادقة ومؤشرات التدفقات وتقرير دعم بلا بيانات حساسة، و«فواتير الويب» صفحة أعمال بقسمي مندوبي البيع والتسليم مع دمج طلبات مرتجعات التسليم",
+  "artifacts": []
 }
