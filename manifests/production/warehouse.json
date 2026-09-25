@@ -4,12 +4,12 @@
   "app": "warehouse",
   "channel": "production",
   "packageName": "com.example.flutter_application_4",
-  "versionCode": 22,
-  "versionName": "1.0.21",
-  "apkUrl": "https://github.com/ahmedmmo902-byte/family-health-app-releases/releases/download/warehouse-v1.0.21/warehouse-1.0.21.apk",
-  "sha256": "cf4ed3e3b5b017e88862510a08e37c2ebf67f7ab04ae2112a08e31833b36ca7f",
-  "sizeBytes": 90932737,
+  "versionCode": 26,
+  "versionName": "1.0.25",
+  "apkUrl": "https://github.com/ahmedmmo902-byte/family-health-app-releases/releases/download/warehouse-v1.0.25/warehouse-1.0.25.apk",
+  "sha256": "f32cc58cebde3722ac7b956b2c387dd6ab8bd04b9a61d8ee4a5cd63b34846a4e",
+  "sizeBytes": 91178497,
   "required": false,
-  "notes": "مزامنة بيانات المخزن: زر «فحص وإصلاح الآن» واحد في الإعدادات بحالة صادقة ومؤشرات المخزون والكتالوج مقابل رؤوس الخادم وتقرير دعم بلا بيانات حساسة، وإثبات الاتصال بنداء قراءة فعلي فلا تظهر الحالة «متصل» وأنت غير متصل",
+  "notes": "الرصيد الحالي والحركة والرصيد بعد العملية داخل نافذة الإنتاج والتوريد والمرتجع، فتح أسرع، طباعة عربية سليمة",
   "artifacts": []
 }

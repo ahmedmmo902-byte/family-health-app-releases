@@ -4,12 +4,12 @@
   "app": "accounting",
   "channel": "production",
   "packageName": "com.example.accounting",
-  "versionCode": 29,
-  "versionName": "1.0.28",
-  "apkUrl": "https://github.com/ahmedmmo902-byte/family-health-app-releases/releases/download/accounting-v1.0.28/accounting-1.0.28.apk",
-  "sha256": "b914200c0f9991ba6359582d41d5bfeb7d715a6e971a56f722e7a295546540d0",
-  "sizeBytes": 73552032,
+  "versionCode": 53,
+  "versionName": "1.0.52",
+  "apkUrl": "https://github.com/ahmedmmo902-byte/family-health-app-releases/releases/download/accounting-v1.0.52/accounting-1.0.52.apk",
+  "sha256": "dec84dc0ac431c5f6a60c9c646ebef88bc43ec83572cfc7d63d0267b3525115f",
+  "sizeBytes": 76609005,
   "required": false,
-  "notes": "زر «فحص وإصلاح الآن» واحد لمزامنة بيانات الشركة مع حالة صادقة ومؤشرات التدفقات وتقرير دعم بلا بيانات حساسة، و«فواتير الويب» صفحة أعمال بقسمي مندوبي البيع والتسليم مع دمج طلبات مرتجعات التسليم",
+  "notes": "تسعير المرتجع من الأسعار المحفوظة على الجهاز مع إدخال يدوي، صافي البيع خلال الشهر، إصلاح الطباعة العربية وكشف الحساب، الربط الشبكي مع المخزن افتراضيًا",
   "artifacts": []
 }
