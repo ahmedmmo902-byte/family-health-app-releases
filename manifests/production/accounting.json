@@ -4,12 +4,12 @@
   "app": "accounting",
   "channel": "production",
   "packageName": "com.example.accounting",
-  "versionCode": 53,
-  "versionName": "1.0.52",
-  "apkUrl": "https://github.com/ahmedmmo902-byte/family-health-app-releases/releases/download/accounting-v1.0.52/accounting-1.0.52.apk",
-  "sha256": "dec84dc0ac431c5f6a60c9c646ebef88bc43ec83572cfc7d63d0267b3525115f",
-  "sizeBytes": 76609005,
+  "versionCode": 59,
+  "versionName": "1.0.58",
+  "apkUrl": "https://github.com/ahmedmmo902-byte/family-health-app-releases/releases/download/accounting-v1.0.58/accounting-1.0.58.apk",
+  "sha256": "70082ea59a36bf9565e5535e73a4a28298f911b03a2c1abb04bf9d78d803320b",
+  "sizeBytes": 80132621,
   "required": false,
-  "notes": "تسعير المرتجع من الأسعار المحفوظة على الجهاز مع إدخال يدوي، صافي البيع خلال الشهر، إصلاح الطباعة العربية وكشف الحساب، الربط الشبكي مع المخزن افتراضيًا",
+  "notes": "فلتر مندوب البيع في الفواتير، صفحة تحصيل المندوب الكاملة مع المسودة، تكبير أسلس لتقارير PDF، أرشفة العميل والمندوب مع بقاء السجل، إصلاح إغلاق حوارات الإدخال",
   "artifacts": []
 }
