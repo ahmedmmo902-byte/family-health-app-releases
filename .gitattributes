@@ -1,0 +1,13 @@
+# Byte-exact release metadata.
+#
+# Manifests are covered by detached Ed25519 signatures over their EXACT bytes,
+# and this clone runs with core.autocrlf=true. Never let Git convert line
+# endings (or apply any other text filter) on manifests or their signatures:
+# a single CR added on checkout/commit invalidates the signature.
+manifests/**/*.json -text merge=binary
+manifests/**/*.sig  -text merge=binary
+staging/**/*.json   -text merge=binary
+staging/**/*.sig    -text merge=binary
+
+# APKs / keys never belong in Git; if one ever appears, treat it as binary.
+*.apk binary
