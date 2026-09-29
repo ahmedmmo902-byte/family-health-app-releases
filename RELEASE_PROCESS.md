@@ -26,8 +26,10 @@ that recovery path is a safety net, not a substitute for unique version codes.
 
 The rules above still apply. These three apps additionally require a detached
 Ed25519 signature next to every manifest and a monotonic `sequence`. The
-accounting / warehouse / representatives manifests are **not** part of this
-scheme and are never re-signed or rewritten by it.
+accounting / warehouse / representatives / representatives-delivery manifests
+are **not** part of this scheme and are never re-signed or rewritten by it.
+Like them, every package has its own manifest file named after its `app` id,
+and a manifest names exactly one package.
 
 ## Layout and names
 
@@ -57,7 +59,8 @@ scheme and are never re-signed or rewritten by it.
 ## Allowed hosts (proven chain)
 
 Read-only proof on 2026-09-29 (`curl -sI` hop by hop, and `curl -r 0-0` GET)
-for three existing assets of this repository:
+for four existing assets of this repository (accounting-v1.0.52,
+warehouse-v1.0.25, representatives-v1.0.4, representatives-delivery-v1.0.5):
 
 1. `github.com` — `/releases/download/<tag>/<asset>` answers `302 Found`
 2. `release-assets.githubusercontent.com` — `/github-production-release-asset/…`
@@ -67,7 +70,7 @@ for three existing assets of this repository:
 Manifests: `raw.githubusercontent.com` answers `200` directly (no redirect),
 `Cache-Control: max-age=300`, and serves the committed blob byte for byte
 (verified by `git hash-object` of the raw bytes == the committed blob for all
-four existing manifests).
+five existing manifests at main 1fa2742).
 
 The minimal allowlist is therefore exactly:
 
