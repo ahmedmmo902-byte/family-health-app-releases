@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "status": "published",
+  "app": "workers-receiver",
+  "channel": "production",
+  "packageName": "com.example.workers.receiver",
+  "versionCode": 10000,
+  "versionName": "1.1.0",
+  "sequence": 2026092901,
+  "apkUrl": "https://github.com/ahmedmmo902-byte/family-health-app-releases/releases/download/workers-v1.1.0/workers-receiver-1.1.0.apk",
+  "sha256": "53eec1ce1bf258bab2da5d2cffad11a295b6e1257786b4256a7afc858ae2d676",
+  "sizeBytes": 57267833,
+  "required": false,
+  "notes": "",
+  "artifacts": []
+}
