@@ -4,12 +4,12 @@
   "app": "accounting",
   "channel": "production",
   "packageName": "com.example.accounting",
-  "versionCode": 60,
-  "versionName": "1.0.59",
-  "apkUrl": "https://github.com/ahmedmmo902-byte/family-health-app-releases/releases/download/accounting-v1.0.59/accounting-1.0.59.apk",
-  "sha256": "cafb7e8c68efbd6d174494d78d0c5d0d397c4b7a3bee32ceee01e8bf2a01a4e2",
-  "sizeBytes": 80181773,
+  "versionCode": 61,
+  "versionName": "1.0.60",
+  "apkUrl": "https://github.com/ahmedmmo902-byte/family-health-app-releases/releases/download/accounting-v1.0.60/accounting-1.0.60.apk",
+  "sha256": "824247af27609dc2eaeb03850464a0ec04197ed0d72ba7ddbd326140e94b36d6",
+  "sizeBytes": 80263693,
   "required": false,
-  "notes": "منع تسجيل تحصيل أو حركة مالية بتاريخ مستقبلي (اليوم مسموح)، استعادة أدق للمرتجعات الملغاة والمعدلة، وإيقاف تكرار المزامنة للحركات المعلقة",
+  "notes": "إيقاف تكرار إعادة المحاولة: الرفض الدائم (ومنه التاريخ المستقبلي) لا يُعاد، والأخطاء العابرة بعدد محدود وتباعد متزايد",
   "artifacts": []
 }
