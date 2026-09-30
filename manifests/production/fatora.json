@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "status": "published",
+  "sequence": 2026092901,
+  "app": "fatora",
+  "channel": "production",
+  "packageName": "com.example.fatora",
+  "versionCode": 10000,
+  "versionName": "1.1.0",
+  "apkUrl": "https://github.com/ahmedmmo902-byte/family-health-app-releases/releases/download/fatora-v1.1.0/fatora-1.1.0.apk",
+  "sha256": "9deba0837d67f55b90686671e6e0d72a69e2ea6c0a30f777dbd1c9962e29d844",
+  "sizeBytes": 59720451,
+  "required": false,
+  "notes": "",
+  "artifacts": []
+}

@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "status": "published",
+  "app": "workers",
+  "channel": "production",
+  "packageName": "com.example.workers",
+  "versionCode": 10000,
+  "versionName": "1.1.0",
+  "sequence": 2026092901,
+  "apkUrl": "https://github.com/ahmedmmo902-byte/family-health-app-releases/releases/download/workers-v1.1.0/workers-1.1.0.apk",
+  "sha256": "264546a14d7e8f983347b606106d89e6a261d1ce1895c610a71372aeb15e48ee",
+  "sizeBytes": 74913377,
+  "required": false,
+  "notes": "",
+  "artifacts": []
+}
