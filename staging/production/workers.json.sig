@@ -1,1 +1,1 @@
-{"schema": 1, "alg": "Ed25519", "kid": "uk-workers-prod-2026-10", "sig": "ihAEQQj0nXyIX8551-r-SBJdOght2zz2layRLJwgoo5zPz0brX5nyvD0QcUp7H0zTq2WkO1vdmLodBuu2gFgCg"}
+{"schema": 1, "alg": "Ed25519", "kid": "uk-workers-prod-2026-10", "sig": "MyjcMwb0TbKcg1yJn-OJk_lHZSrrJ2oGVEjIL0HQlMVIrArTYPDVc_XjD7gGfOHZsNoG_6b_PvbasyXv6HUoDg"}
