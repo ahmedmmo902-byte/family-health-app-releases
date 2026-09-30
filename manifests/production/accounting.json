@@ -4,12 +4,12 @@
   "app": "accounting",
   "channel": "production",
   "packageName": "com.example.accounting",
-  "versionCode": 59,
-  "versionName": "1.0.58",
-  "apkUrl": "https://github.com/ahmedmmo902-byte/family-health-app-releases/releases/download/accounting-v1.0.58/accounting-1.0.58.apk",
-  "sha256": "70082ea59a36bf9565e5535e73a4a28298f911b03a2c1abb04bf9d78d803320b",
-  "sizeBytes": 80132621,
+  "versionCode": 60,
+  "versionName": "1.0.59",
+  "apkUrl": "https://github.com/ahmedmmo902-byte/family-health-app-releases/releases/download/accounting-v1.0.59/accounting-1.0.59.apk",
+  "sha256": "cafb7e8c68efbd6d174494d78d0c5d0d397c4b7a3bee32ceee01e8bf2a01a4e2",
+  "sizeBytes": 80181773,
   "required": false,
-  "notes": "فلتر مندوب البيع في الفواتير، صفحة تحصيل المندوب الكاملة مع المسودة، تكبير أسلس لتقارير PDF، أرشفة العميل والمندوب مع بقاء السجل، إصلاح إغلاق حوارات الإدخال",
+  "notes": "منع تسجيل تحصيل أو حركة مالية بتاريخ مستقبلي (اليوم مسموح)، استعادة أدق للمرتجعات الملغاة والمعدلة، وإيقاف تكرار المزامنة للحركات المعلقة",
   "artifacts": []
 }

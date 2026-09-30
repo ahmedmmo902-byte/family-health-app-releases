@@ -4,12 +4,12 @@
   "app": "warehouse",
   "channel": "production",
   "packageName": "com.example.flutter_application_4",
-  "versionCode": 27,
-  "versionName": "1.0.26",
-  "apkUrl": "https://github.com/ahmedmmo902-byte/family-health-app-releases/releases/download/warehouse-v1.0.26/warehouse-1.0.26.apk",
-  "sha256": "3663621d9dddfca6425fe9a3320d96b55b61bad6f3f83a9595e0b400b90e75e1",
-  "sizeBytes": 91194881,
+  "versionCode": 28,
+  "versionName": "1.0.27",
+  "apkUrl": "https://github.com/ahmedmmo902-byte/family-health-app-releases/releases/download/warehouse-v1.0.27/warehouse-1.0.27.apk",
+  "sha256": "ff98e93cdd8e77c18897d47ca3bd668a5b2f002faad7719988cadcb04566095a",
+  "sizeBytes": 91227649,
   "required": false,
-  "notes": "توافق مع عقود الخادم الجديدة للمخزن والأجهزة، وتحسينات الاستقرار والمزامنة",
+  "notes": "تشغيل أكثر من جهاز مخزن للمستخدم نفسه دون سحب الجهاز السابق، وإصلاح إعادة المحاولة المؤجلة والحوارات",
   "artifacts": []
 }
