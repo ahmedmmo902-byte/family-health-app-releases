@@ -1,0 +1,15 @@
+{
+  "schema": 1,
+  "status": "published",
+  "app": "warehouse",
+  "channel": "qa",
+  "packageName": "com.example.flutter_application_4.qa_a",
+  "versionCode": 51,
+  "versionName": "1.0.50-qa-a",
+  "apkUrl": "https://github.com/ahmedmmo902-byte/family-health-app-releases/releases/download/warehouse-qa-v1.0.50/warehouse-qa-a-1.0.50.apk",
+  "sha256": "375fbffa74f86a9aef12e83df6fdf935af820c9bd9e52804e2a6e03d136f8179",
+  "sizeBytes": 92505853,
+  "required": false,
+  "notes": "تحديث QA للاختبار فقط (R68) — ليس للأجهزة الميدانية",
+  "artifacts": []
+}
