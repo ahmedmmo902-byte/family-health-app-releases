@@ -4,12 +4,12 @@
   "app": "accounting",
   "channel": "production",
   "packageName": "com.example.accounting",
-  "versionCode": 61,
-  "versionName": "1.0.60",
-  "apkUrl": "https://github.com/ahmedmmo902-byte/family-health-app-releases/releases/download/accounting-v1.0.60/accounting-1.0.60.apk",
-  "sha256": "824247af27609dc2eaeb03850464a0ec04197ed0d72ba7ddbd326140e94b36d6",
-  "sizeBytes": 80263693,
+  "versionCode": 63,
+  "versionName": "1.0.62",
+  "apkUrl": "https://github.com/ahmedmmo902-byte/family-health-app-releases/releases/download/accounting-v1.0.62/accounting-1.0.62.apk",
+  "sha256": "eabd9cada15acf84ea5cf4f4ba668e5ad3449deb65b017e7b9df30b2e8cfe3e2",
+  "sizeBytes": 80771909,
   "required": false,
-  "notes": "إيقاف تكرار إعادة المحاولة: الرفض الدائم (ومنه التاريخ المستقبلي) لا يُعاد، والأخطاء العابرة بعدد محدود وتباعد متزايد",
+  "notes": "منع أي مزامنة لبيانات الشركة قبل نجاح التفعيل، فتح لوحة الصنف فورًا مع تسعير مسبق، انتقال الفاتورة دون إعادة تحميل الصفحة، صفحة فواتير الويب أسرع بقراءة مجمّعة وتحميل كسول",
   "artifacts": []
 }
