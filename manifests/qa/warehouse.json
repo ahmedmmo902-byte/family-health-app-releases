@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "status": "published",
+  "status": "paused",
   "app": "warehouse",
   "channel": "qa",
   "packageName": "com.example.flutter_application_4.qa_a",
