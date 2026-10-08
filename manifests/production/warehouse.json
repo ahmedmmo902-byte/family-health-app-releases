@@ -4,12 +4,12 @@
   "app": "warehouse",
   "channel": "production",
   "packageName": "com.example.flutter_application_4",
-  "versionCode": 33,
-  "versionName": "1.0.32",
-  "apkUrl": "https://github.com/ahmedmmo902-byte/family-health-app-releases/releases/download/warehouse-v1.0.32/warehouse-1.0.32.apk",
-  "sha256": "3405e5d5e58841e3319447e0c2e3c7727ce5050feb15bf54a3c868de8ae3c78f",
-  "sizeBytes": 92590109,
+  "versionCode": 34,
+  "versionName": "1.0.33",
+  "apkUrl": "https://github.com/ahmedmmo902-byte/family-health-app-releases/releases/download/warehouse-v1.0.33/warehouse-1.0.33.apk",
+  "sha256": "8149a2948c107d0d8ab260eed3008551eda11206bd8cbc88d61448da7978fc08",
+  "sizeBytes": 92590121,
   "required": false,
-  "notes": "صفحة الأصناف: سطح تمرير واحد والقائمة العلوية تتحرك مع الصفحة",
+  "notes": "تحديث المخزن 1.0.33\n- إصلاح علامة الإكس لمسح حقول البحث واختيار الأصناف.",
   "artifacts": []
 }

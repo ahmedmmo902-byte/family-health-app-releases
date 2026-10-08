@@ -4,12 +4,12 @@
   "app": "accounting",
   "channel": "production",
   "packageName": "com.example.accounting",
-  "versionCode": 65,
-  "versionName": "1.0.64",
-  "apkUrl": "https://github.com/ahmedmmo902-byte/family-health-app-releases/releases/download/accounting-v1.0.64/accounting-1.0.64.apk",
-  "sha256": "96e6c46e4ebcf1b39c9278d78e85da73f54ccbc65a8143e5b80796d0b2f4ab92",
-  "sizeBytes": 81476581,
+  "versionCode": 66,
+  "versionName": "1.0.65",
+  "apkUrl": "https://github.com/ahmedmmo902-byte/family-health-app-releases/releases/download/accounting-v1.0.65/accounting-1.0.65.apk",
+  "sha256": "d97414576a02269a386949c380a463bc17c787ecd0ae29f27dea85f2bd2cacfa",
+  "sizeBytes": 83573873,
   "required": true,
-  "notes": "تحديث R69: تواريخ المستندات وأول سعر حقيقي، تعديل الفواتير الجاهزة وفي التوصيل، إصلاح كود العميل والطباعة واللوحة، وإعلان قدرة إلغاء الدفعات (الميزة معطلة)",
+  "notes": "تحديث المحاسبة 1.0.65 (R70) — إلزامي\n- سجل التحصيلات المجمعة: عملية واحدة بتاريخ واحد، تعديل وإلغاء رسميان بسجل كامل.\n- معاينة تقرير المبيعات عند الضغط فقط، وتبويبات الفواتير الثلاثة، وترتيب فواتير الفترة من الأحدث.\n- إضافة الأصناف دون إنترنت من آخر مزامنة أسعار كاملة، مع تحقق الخادم وعدم تغيير السعر بصمت.\n- إصلاح فتح «تعديل الفاتورة» و«عرض الفاتورة» الموحد مع الطباعة والمشاركة.\n- إصلاح علامة الإكس لمسح الحقول.\nيجب التحديث لاستمرار المزامنة.",
   "artifacts": []
 }
