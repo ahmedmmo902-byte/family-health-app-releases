@@ -4,12 +4,12 @@
   "app": "representatives",
   "channel": "production",
   "packageName": "com.familyhealth.representatives",
-  "versionCode": 9,
-  "versionName": "1.0.8",
-  "apkUrl": "https://github.com/ahmedmmo902-byte/family-health-app-releases/releases/download/representatives-v1.0.8/representatives-1.0.8.apk",
-  "sha256": "dbd0262416d0afc4b05bdbf48284764c09c22ccfc6625b85e813ea74c1a485d0",
-  "sizeBytes": 65952340,
+  "versionCode": 10,
+  "versionName": "1.0.9",
+  "apkUrl": "https://github.com/ahmedmmo902-byte/family-health-app-releases/releases/download/representatives-v1.0.9/representatives-1.0.9.apk",
+  "sha256": "3301b5194966315d6bed92c896a4cff6d2dd019d49adf221e89206e2dc456d77",
+  "sizeBytes": 65969505,
   "required": true,
-  "notes": "تحديث مندوب البيع 1.0.8 — إلزامي\n- أصناف الفاتورة مرتبة بالفئة ثم النوع ثم الصنف.\n- لا يُطلب سبب عند اختيار تاريخ سابق للفاتورة.",
+  "notes": "تحديث مندوب البيع 1.0.9 — إلزامي\n- تنزيل التحديث يستمر في الخلفية ويُستأنف بعد إغلاق التطبيق أو إعادة تشغيل الهاتف، والتحديثات الإلزامية القادمة تبدأ تلقائيًا.",
   "artifacts": []
 }
