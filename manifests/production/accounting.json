@@ -4,12 +4,22 @@
   "app": "accounting",
   "channel": "production",
   "packageName": "com.example.accounting",
-  "versionCode": 71,
-  "versionName": "1.0.70",
-  "apkUrl": "https://github.com/ahmedmmo902-byte/family-health-app-releases/releases/download/accounting-v1.0.70/accounting-1.0.70.apk",
-  "sha256": "805e19638ecb09f47e2241f4730bbefebe487ae1ba626dbcbc9bdeaf822d82e4",
-  "sizeBytes": 84738782,
+  "versionCode": 72,
+  "versionName": "1.0.71",
+  "apkUrl": "https://github.com/ahmedmmo902-byte/family-health-app-releases/releases/download/accounting-v1.0.71/accounting-1.0.71.apk",
+  "sha256": "daac8a08f7304362f349fbfba716c6a2f3d8afac51f18a1ea8b8bad2a9d5919d",
+  "sizeBytes": 84755166,
   "required": true,
-  "notes": "إصلاح حذف الفواتير ومزامنة تعديل الفواتير المكتملة، وقائمة الأسعار والطباعة.",
-  "artifacts": []
+  "notes": "إصلاح مزامنة بنود الفاتورة المكتملة وتوضيح حالة القبض، وتمرير صفحة الأصناف، وتنزيل أخف لأجهزة ARM64.",
+  "artifacts": [
+    {
+      "abi": "arm64-v8a",
+      "packageName": "com.example.accounting",
+      "versionCode": 72,
+      "versionName": "1.0.71",
+      "url": "https://github.com/ahmedmmo902-byte/family-health-app-releases/releases/download/accounting-v1.0.71/accounting-1.0.71-arm64-v8a.apk",
+      "sha256": "aa59f6457634c017fa29540698bc129f794055571020423f69bba0bd5cce24dc",
+      "sizeBytes": 30925513
+    }
+  ]
 }
