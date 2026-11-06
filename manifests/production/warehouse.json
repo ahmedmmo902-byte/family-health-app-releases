@@ -4,12 +4,12 @@
   "app": "warehouse",
   "channel": "production",
   "packageName": "com.example.flutter_application_4",
-  "versionCode": 36,
-  "versionName": "1.0.35",
-  "apkUrl": "https://github.com/ahmedmmo902-byte/family-health-app-releases/releases/download/warehouse-v1.0.35/warehouse-1.0.35.apk",
-  "sha256": "7216d16a3bc034aa8e96d102d0c14ed2d4e885307555554868b1ea3c5d7dd976",
-  "sizeBytes": 92607226,
+  "versionCode": 37,
+  "versionName": "1.0.36",
+  "apkUrl": "https://github.com/ahmedmmo902-byte/family-health-app-releases/releases/download/warehouse-v1.0.36/warehouse-1.0.36.apk",
+  "sha256": "89c7d4076deaab382cfb929a1ec33cb5e3fa4451551f585bc63d48545eb6fd1e",
+  "sizeBytes": 92607230,
   "required": true,
-  "notes": "تحديث المخزن 1.0.35 — إلزامي\n- تنزيل التحديث يستمر في الخلفية ويُستأنف بعد إغلاق التطبيق أو إعادة تشغيل الهاتف، والتحديثات الإلزامية القادمة تبدأ تلقائيًا.",
+  "notes": "توضيح شروط إضافة الصنف على جهاز لم يتأكد ربطه بالشركة.",
   "artifacts": []
 }

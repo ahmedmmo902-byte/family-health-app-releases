@@ -4,12 +4,12 @@
   "app": "representatives-delivery",
   "channel": "production",
   "packageName": "com.familyhealth.representatives.delivery",
-  "versionCode": 10,
-  "versionName": "1.0.9",
-  "apkUrl": "https://github.com/ahmedmmo902-byte/family-health-app-releases/releases/download/representatives-delivery-v1.0.9/representatives-delivery-1.0.9.apk",
-  "sha256": "dc854c60334851bddd11f186f2b3817ce807f2abe326f3da7867cc71f54ee758",
+  "versionCode": 11,
+  "versionName": "1.0.10",
+  "apkUrl": "https://github.com/ahmedmmo902-byte/family-health-app-releases/releases/download/representatives-delivery-v1.0.10/representatives-delivery-1.0.10.apk",
+  "sha256": "699825d1aa91d92abdfda5c966f2b6ca578c222eabb580f0bee45a235e2f53be",
   "sizeBytes": 65969521,
   "required": true,
-  "notes": "تحديث مندوب التوصيل 1.0.9 — إلزامي\n- تنزيل التحديث يستمر في الخلفية ويُستأنف بعد إغلاق التطبيق أو إعادة تشغيل الهاتف، والتحديثات الإلزامية القادمة تبدأ تلقائيًا.\n- اختيار حالة التحصيل إلزامي عند إنهاء الفاتورة (لا اختيار افتراضي).",
+  "notes": "مزامنة حالة الفاتورة عند إرجاعها إلى جاهزة للتسليم.",
   "artifacts": []
 }
